@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "system",
+    "target": "ES5",
+    "newLine": "LF",
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "rootDir": "app",
+    "outDir": "build/app"
+  },
+  "files": [
+    "app/navigation/header.ts"
+  ]
+}
