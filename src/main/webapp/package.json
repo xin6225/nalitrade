@@ -1,0 +1,19 @@
+{
+  "name": "nltrade-client",
+  "description": "webapp for my project",
+  "keywords": [
+    "xintek, xin, nalitrade, wholesale, online trade"
+  ],
+  "homepage": "https://github.com/xin6225/nalitrade",
+  "author": "Meme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com:xin6225/nalitrade.git"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "bower": "1.7.9",
+    "grunt": "~1.0.0"
+  }
+}
